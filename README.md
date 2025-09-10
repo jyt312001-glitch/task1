@@ -1,5 +1,6 @@
 # task1
 #Arithmetic operation on two numbers
+
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 result = num1 + num2
@@ -13,6 +14,7 @@ print(f"the division is:{result3}")
 
 #task2
 #PERSONALISED GREETING
+
 name1 = (input('enter your first name: '))
 name2 =(input('enter your last name: '))
 Fullname= name1 + name2
